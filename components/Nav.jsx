@@ -1,4 +1,4 @@
-import { navLinks } from '@/utils/navLink'
+import { navLinks } from '@/utils/navLinks'
 import Link from 'next/link'
 import React from 'react'
 
